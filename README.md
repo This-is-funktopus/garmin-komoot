@@ -6,12 +6,17 @@ To set up your Komoot flavoured map, download the KTMF file and transer it to MA
 Then, navigate to the following:
 
 STEP 1:
+
 settings > activity profiles > [CHOOSE A PROFILE] > Navigation > Map > Appearance > Map Theme > [CHOOSE THE DOWNLOADED MAP]
+
 This sets up the map.
 
 STEP 2:
+
 settings > activity profiles > [CHOOSE A PROFILE] > Navigation > Map > Appearance > Advanced > Zoom Levels [SET MAP POINTS AND STREET LABELS TO "OFF", SET SHADED RELIEF TO "DO NOT SHOW"]
+
 This declutters the map.
 
 STEP 3:
+
 Ride!
