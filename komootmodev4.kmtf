@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<garmin_map_theme>
+	<metadata>
+		<title>Komoot Mode purple</title>
+		<description>Garmin map theme generated with https://jnr.fi/garmin</description>
+	</metadata>
+	<stylelist>
+		<style field="MPM_LAND_CLR">
+			<color>
+				<primary day="#ffe3e3e3" night="#ffe3e3e3"/>
+				<secondary day="#ffe3e3e3" night="#ffe3e3e3"/>
+			</color>
+		</style>
+		<style field="MPM_URBAN_LAND_CLR">
+			<color>
+				<primary day="#ffe3e3e3" night="#ffe3e3e3"/>
+				<secondary day="#ffe3e3e3" night="#ffe3e3e3"/>
+			</color>
+		</style>
+		<style field="MPM_MISC_AREA_CLR">
+			<color>
+				<primary day="#ffe3e3e3" night="#ffe3e3e3"/>
+				<secondary day="#ffe3e3e3" night="#ffe3e3e3"/>
+			</color>
+		</style>
+		<style field="MPM_PARK_CLR">
+			<color>
+				<primary day="#ffa8fca8" night="#ffa8fca8"/>
+				<secondary day="#ffa8fca8" night="#ffa8fca8"/>
+			</color>
+		</style>
+		<style field="MPM_WOODS_CLR">
+			<color>
+				<primary day="#ffc9d498" night="#ffc9d498"/>
+				<secondary day="#ffc9d498" night="#ffc9d498"/>
+			</color>
+		</style>
+		<style field="MPM_WETLAND_CLR">
+			<color>
+				<primary day="#ffa8a8f8" night="#ffa8a8f8"/>
+				<secondary day="#ffa8a8f8" night="#ffa8a8f8"/>
+			</color>
+		</style>
+		<style field="MPM_BOG_CLR">
+			<color>
+				<primary day="#ffa8a8f8" night="#ffa8a8f8"/>
+				<secondary day="#ffa8a8f8" night="#ffa8a8f8"/>
+			</color>
+		</style>
+		<style field="MPM_FLOATING_BOG">
+			<color>
+				<primary day="#ffa8a8f8" night="#ffa8a8f8"/>
+				<secondary day="#ffa8a8f8" night="#ffa8a8f8"/>
+			</color>
+		</style>
+		<style field="MPM_SHORELINE_CLR">
+			<color>
+				<primary day="#ff000000" night="#ff000000"/>
+				<secondary day="#ff000000" night="#ff000000"/>
+			</color>
+		</style>
+		<style field="MPM_WATER_CLR">
+			<color>
+				<primary day="#ff00a8f8" night="#ff00a8f8"/>
+				<secondary day="#ff00a8f8" night="#ff00a8f8"/>
+			</color>
+		</style>
+		<style field="MPM_MISC_WATER_AREA_CLR">
+			<color>
+				<primary day="#ff00a8f8" night="#ff00a8f8"/>
+				<secondary day="#ff00a8f8" night="#ff00a8f8"/>
+			</color>
+		</style>
+		<style field="MPM_BUILDING_CLR">
+			<color>
+				<primary day="#ffa8a8a8" night="#ffa8a8a8"/>
+				<secondary day="#ffa8a8a8" night="#ffa8a8a8"/>
+			</color>
+		</style>
+		<style field="MPM_BUILDING_SHADOW_CLR">
+			<color>
+				<primary day="#ffa8a8a8" night="#ffa8a8a8"/>
+				<secondary day="#ffa8a8a8" night="#ffa8a8a8"/>
+			</color>
+		</style>
+		<style field="MPM_SUBJ_INUNDATION_CLR">
+			<color>
+				<primary day="#fff8f8f8" night="#fff8f8f8"/>
+				<secondary day="#fff8f8f8" night="#fff8f8f8"/>
+			</color>
+		</style>
+		<style field="MPM_GLACIER_CLR">
+			<color>
+				<primary day="#fff8f8f8" night="#fff8f8f8"/>
+				<secondary day="#fff8f8f8" night="#fff8f8f8"/>
+			</color>
+		</style>
+		<style field="MPM_RWY_HSRFC_CLR">
+			<color>
+				<primary day="#ffa8a8a8" night="#ffa8a8a8"/>
+				<secondary day="#ffa8a8a8" night="#ffa8a8a8"/>
+			</color>
+		</style>
+		<style field="MPM_GRASSLND_CLR">
+			<color>
+				<primary day="#ffa8fca8" night="#ffa8fca8"/>
+				<secondary day="#ffa8fca8" night="#ffa8fca8"/>
+			</color>
+		</style>
+		<style field="MPM_EVERGREEN_CLR">
+			<color>
+				<primary day="#ffc9d498" night="#ffc9d498"/>
+				<secondary day="#ffc9d498" night="#ffc9d498"/>
+			</color>
+		</style>
+		<style field="MPM_PALM_CLR">
+			<color>
+				<primary day="#ffc9d498" night="#ffc9d498"/>
+				<secondary day="#ffc9d498" night="#ffc9d498"/>
+			</color>
+		</style>
+		<style field="MPM_NIPA_PALMS">
+			<color>
+				<primary day="#ffc9d498" night="#ffc9d498"/>
+				<secondary day="#ffc9d498" night="#ffc9d498"/>
+			</color>
+		</style>
+		<style field="MPM_CASUARINA_CLR">
+			<color>
+				<primary day="#ffc9d498" night="#ffc9d498"/>
+				<secondary day="#ffc9d498" night="#ffc9d498"/>
+			</color>
+		</style>
+		<style field="MPM_EUCALYPTUS_CLR">
+			<color>
+				<primary day="#ffc9d498" night="#ffc9d498"/>
+				<secondary day="#ffc9d498" night="#ffc9d498"/>
+			</color>
+		</style>
+		<style field="MPM_MANGROVES_CLR">
+			<color>
+				<primary day="#ffc9d498" night="#ffc9d498"/>
+				<secondary day="#ffc9d498" night="#ffc9d498"/>
+			</color>
+		</style>
+		<style field="MPM_FILAO_CLR">
+			<color>
+				<primary day="#ffc9d498" night="#ffc9d498"/>
+				<secondary day="#ffc9d498" night="#ffc9d498"/>
+			</color>
+		</style>
+		<style field="MPM_BUSHES_CLR">
+			<color>
+				<primary day="#ffc9d498" night="#ffc9d498"/>
+				<secondary day="#ffc9d498" night="#ffc9d498"/>
+			</color>
+		</style>
+		<style field="MPM_DECIDUOUS_CLR">
+			<color>
+				<primary day="#ffc9d498" night="#ffc9d498"/>
+				<secondary day="#ffc9d498" night="#ffc9d498"/>
+			</color>
+		</style>
+		<style field="MPM_CONIFER_CLR">
+			<color>
+				<primary day="#ffc9d498" night="#ffc9d498"/>
+				<secondary day="#ffc9d498" night="#ffc9d498"/>
+			</color>
+		</style>
+		<style field="MPM_WOODED_CLR">
+			<color>
+				<primary day="#ffc9d498" night="#ffc9d498"/>
+				<secondary day="#ffc9d498" night="#ffc9d498"/>
+			</color>
+		</style>
+		<style field="MPM_LAVAFLOW_CLR">
+			<color>
+				<primary day="#fff8f8f8" night="#fff8f8f8"/>
+				<secondary day="#fff8f8f8" night="#fff8f8f8"/>
+			</color>
+		</style>
+		<style field="MPM_PADDY_CLR">
+			<color>
+				<primary day="#fff8f8f8" night="#fff8f8f8"/>
+				<secondary day="#fff8f8f8" night="#fff8f8f8"/>
+			</color>
+		</style>
+		<style field="MPM_CORALREEF_CLR">
+			<color>
+				<primary day="#ffa8a8f8" night="#ffa8a8f8"/>
+				<secondary day="#ffa8a8f8" night="#ffa8a8f8"/>
+			</color>
+		</style>
+		<style field="MPM_RAPIDS_CLR">
+			<color>
+				<primary day="#ffa8a8f8" night="#ffa8a8f8"/>
+				<secondary day="#ffa8a8f8" night="#ffa8a8f8"/>
+			</color>
+		</style>
+		<style field="MPM_RADAR_CLR">
+			<color>
+				<primary day="#fff8f8f8" night="#fff8f8f8"/>
+				<secondary day="#fff8f8f8" night="#fff8f8f8"/>
+			</color>
+		</style>
+		<style field="MPM_CYPRESS_CLR">
+			<color>
+				<primary day="#fff8f8f8" night="#fff8f8f8"/>
+				<secondary day="#fff8f8f8" night="#fff8f8f8"/>
+			</color>
+		</style>
+		<style field="MPM_INTERSTATE_CLR">
+			<color>
+				<primary day="#fff2c463" night="#fff2c463"/>
+				<secondary day="#ffc8a280" night="#ffc8a280"/>
+			</color>
+		</style>
+		<style field="MPM_SS_INTERSTATE_CLR">
+			<color>
+				<primary day="#fff2c463" night="#fff2c463"/>
+				<secondary day="#ffc8a280" night="#ffc8a280"/>
+			</color>
+		</style>
+		<style field="MPM_MJR_HWY_CLR">
+			<color>
+				<primary day="#fff2c463" night="#fff2c463"/>
+				<secondary day="#ffc8a280" night="#ffc8a280"/>
+			</color>
+		</style>
+		<style field="MPM_MNR_HWY_CLR">
+			<color>
+				<primary day="#fffff299" night="#fffff299"/>
+				<secondary day="#fff2c463" night="#fff2c463"/>
+			</color>
+		</style>
+		<style field="MPM_ARTERIAL_CLR">
+			<color>
+				<primary day="#fffff299" night="#fffff299"/>
+				<secondary day="#fff2c463" night="#fff2c463"/>
+			</color>
+		</style>
+		<style field="MPM_COLLECTOR_CLR">
+			<color>
+				<primary day="#fffff299" night="#fffff299"/>
+				<secondary day="#fff2c463" night="#fff2c463"/>
+			</color>
+		</style>
+		<style field="MPM_RESIDENTIAL_CLR">
+			<color>
+				<primary day="#ffffffff" night="#ffffffff"/>
+				<secondary day="#ffc7c7c7" night="#ffc7c7c7"/>
+			</color>
+		</style>
+		<style field="MPM_RAMP_CLR">
+			<color>
+				<primary day="#ff500000" night="#ff500000"/>
+				<secondary day="#ff500000" night="#ff500000"/>
+			</color>
+		</style>
+		<style field="MPM_UNPAVED_CLR">
+			<color>
+				<primary day="#fff7f2eb" night="#fff7f2eb"/>
+				<secondary day="#ffbc977a" night="#ffbc977a"/>
+			</color>
+		</style>
+		<style field="MPM_TRAIL_CLR">
+			<color>
+				<primary day="#ffbc977a" night="#ffbc977a"/>
+				<secondary day="#ffbc977a" night="#ffbc977a"/>
+			</color>
+		</style>
+		<style field="MPM_UNDEFINED_LINE_5_CLR">
+			<color>
+				<primary day="#ff0000f8" night="#ff0000f8"/>
+				<secondary day="#fff8f8f8" night="#fff8f8f8"/>
+			</color>
+		</style>
+		<style field="MPM_UNDEFINED_LINE_7_CLR">
+			<color>
+				<primary day="#ff505450" night="#ff505450"/>
+				<secondary day="#ff505450" night="#ff505450"/>
+			</color>
+		</style>
+		<style field="MPM_ROUTABLE_CUSTOMIZABLE_LINE_5_CLR">
+			<color>
+				<primary day="#ff0054f8" night="#ff0054f8"/>
+				<secondary day="#fff8f8f8" night="#fff8f8f8"/>
+			</color>
+		</style>
+		<style field="MPM_RAILRD_CLR">
+			<color>
+				<primary day="#ffa8a8a8" night="#ffa8a8a8"/>
+				<secondary day="#fff8f8f8" night="#fff8f8f8"/>
+			</color>
+		</style>
+		<style field="MPM_INTL_PLTCL_CLR">
+			<color>
+				<primary day="#ff000000" night="#ff000000"/>
+				<secondary day="#fff8f8f8" night="#fff8f8f8"/>
+			</color>
+		</style>
+		<style field="MPM_MJR_PLTCL_CLR">
+			<color>
+				<primary day="#ff000000" night="#ff000000"/>
+				<secondary day="#fff8f8f8" night="#fff8f8f8"/>
+			</color>
+		</style>
+		<style field="MPM_MNR_PLTCL_CLR">
+			<color>
+				<primary day="#ff000000" night="#ff000000"/>
+				<secondary day="#fff8f8f8" night="#fff8f8f8"/>
+			</color>
+		</style>
+		<style field="MPM_RIVER_CHNL_CLR">
+			<color>
+				<primary day="#ff00a8f8" night="#ff00a8f8"/>
+				<secondary day="#ff00a8f8" night="#ff00a8f8"/>
+			</color>
+		</style>
+		<style field="MPM_MISC_WATER_LINE_CLR">
+			<color>
+				<primary day="#ff00a8f8" night="#ff00a8f8"/>
+				<secondary day="#ff00a8f8" night="#ff00a8f8"/>
+			</color>
+		</style>
+		<style field="MPM_MISC_LINE_CLR">
+			<color>
+				<primary day="#ff505450" night="#ff505450"/>
+				<secondary day="#ff505450" night="#ff505450"/>
+			</color>
+		</style>
+		<style field="MPM_ISO1_CLR">
+			<color>
+				<primary day="#ffa8a8a8" night="#ffa8a8a8"/>
+				<secondary day="#ffa8a8a8" night="#ffa8a8a8"/>
+			</color>
+		</style>
+		<style field="MPM_ISO2_CLR">
+			<color>
+				<primary day="#ffa8a8a8" night="#ffa8a8a8"/>
+				<secondary day="#ffa8a8a8" night="#ffa8a8a8"/>
+			</color>
+		</style>
+		<style field="MPM_ISO3_CLR">
+			<color>
+				<primary day="#ffa8a8a8" night="#ffa8a8a8"/>
+				<secondary day="#ffa8a8a8" night="#ffa8a8a8"/>
+			</color>
+		</style>
+		<style field="MPM_ISO4_CLR">
+			<color>
+				<primary day="#ffa8a8a8" night="#ffa8a8a8"/>
+				<secondary day="#ffa8a8a8" night="#ffa8a8a8"/>
+			</color>
+		</style>
+		<style field="MPM_ISO0_CLR">
+			<color>
+				<primary day="#ffa8a8a8" night="#ffa8a8a8"/>
+				<secondary day="#ffa8a8a8" night="#ffa8a8a8"/>
+			</color>
+		</style>
+		<style field="MPM_MAP_TXT_CLR">
+			<color>
+				<primary day="#ff000000" night="#ff000000"/>
+				<secondary day="#fff8f8f8" night="#fff8f8f8"/>
+			</color>
+		</style>
+		<style field="MPM_HGLT_TXT_CLR">
+			<color>
+				<primary day="#ff000000" night="#ff000000"/>
+				<secondary day="#fff8f8f8" night="#fff8f8f8"/>
+			</color>
+		</style>
+		<style field="MPM_RVR_LAKE_TXT_CLR">
+			<color>
+				<primary day="#ff000048" night="#ff000048"/>
+				<secondary day="#fff8f8f8" night="#fff8f8f8"/>
+			</color>
+		</style>
+		<style field="MPM_WPT_TXT_CLR">
+			<color>
+				<primary day="#ff000000" night="#ff000000"/>
+				<secondary day="#fff8f8f8" night="#fff8f8f8"/>
+			</color>
+		</style>
+		<style field="MPM_LABL_OTLN_CLR">
+			<color>
+				<primary day="#ff000000" night="#ff000000"/>
+				<secondary day="#fff8f8f8" night="#fff8f8f8"/>
+			</color>
+		</style>
+		<style field="MPM_RTE_CLR">
+			<color>
+				<primary day="#ff498adb" night="#ff498adb"/>
+				<secondary day="#ff1054ab" night="#ff1054ab"/>
+			</color>
+		</style>
+		<style field="MPM_ACTV_RTE_LEG_CLR">
+			<color>
+				<primary day="#ff498adb" night="#ff498adb"/>
+				<secondary day="#ff1054ab" night="#ff1054ab"/>
+			</color>
+		</style>
+		<style field="MPM_ACTV_CRS_LEG_CLR">
+			<color>
+				<primary day="#ff498adb" night="#ff498adb"/>
+				<secondary day="#ff1054ab" night="#ff1054ab"/>
+			</color>
+		</style>
+		<style field="MPM_ACTV_CRS_CLR">
+			<color>
+				<primary day="#ff498adb" night="#ff498adb"/>
+				<secondary day="#ff1054ab" night="#ff1054ab"/>
+			</color>
+		</style>
+		<style field="MPM_RTE_LEG_CLR">
+			<color>
+				<primary day="#ff498adb" night="#ff498adb"/>
+				<secondary day="#ff1054ab" night="#ff1054ab"/>
+			</color>
+		</style>
+		<style field="MPM_RTE_MAGENTA_CLR">
+			<color>
+				<primary day="#ff498adb" night="#ff498adb"/>
+				<secondary day="#ff1054ab" night="#ff1054ab"/>
+			</color>
+		</style>
+		<style field="MPM_RTE_MAGENTA_CLR_1">
+			<color>
+				<primary day="#ff498adb" night="#ff498adb"/>
+				<secondary day="#ff1054ab" night="#ff1054ab"/>
+			</color>
+		</style>
+		<style field="MPM_RTE_MAGENTA_CLR_2">
+			<color>
+				<primary day="#ff498adb" night="#ff498adb"/>
+				<secondary day="#ff1054ab" night="#ff1054ab"/>
+			</color>
+		</style>
+		<style field="MPM_RTE_MAGENTA_CLR_3">
+			<color>
+				<primary day="#ff498adb" night="#ff498adb"/>
+				<secondary day="#ff1054ab" night="#ff1054ab"/>
+			</color>
+		</style>
+		<style field="MPM_RTE_MAGENTA_CLR_4">
+			<color>
+				<primary day="#ff498adb" night="#ff498adb"/>
+				<secondary day="#ff1054ab" night="#ff1054ab"/>
+			</color>
+		</style>
+		<style field="MPM_RTE_OVRLY_CLR">
+			<color>
+				<primary day="#ff498adb" night="#ff498adb"/>
+				<secondary day="#ff1054ab" night="#ff1054ab"/>
+			</color>
+		</style>
+		<style field="MPM_SLCT_RTE_CLR">
+			<color>
+				<primary day="#ff498adb" night="#ff498adb"/>
+				<secondary day="#ff1054ab" night="#ff1054ab"/>
+			</color>
+		</style>
+		<style field="MPM_TRKBCK_RTE_CLR">
+			<color>
+				<primary day="#ff498adb" night="#ff498adb"/>
+				<secondary day="#ff1054ab" night="#ff1054ab"/>
+			</color>
+		</style>
+		<style field="MPM_TRK_CLR">
+			<color>
+				<primary day="#ff498adb" night="#ff498adb"/>
+				<secondary day="#ff1054ab" night="#ff1054ab"/>
+			</color>
+		</style>
+		<style field="MPM_STRK_CLR">
+			<color>
+				<primary day="#ff498adb" night="#ff498adb"/>
+				<secondary day="#ff1054ab" night="#ff1054ab"/>
+			</color>
+		</style>
+		<style field="MPM_VEHICLE_BRDR_CLR">
+			<color>
+				<primary day="#ffffffff" night="#ffffffff"/>
+				<secondary day="#ffffffff" night="#ffffffff"/>
+			</color>
+		</style>
+		<style field="MPM_VEHICLE_CLR">
+			<color>
+				<primary day="#ff9d2241" night="#ff9d2241"/>
+				<secondary day="#ff9d2241" night="#ff9d2241"/>
+			</color>
+		</style>
+		<style field="MPM_VEHICLE_LEFT_CLR">
+			<color>
+				<primary day="#ff9d2241" night="#ff9d2241"/>
+				<secondary day="#ff9d2241" night="#ff9d2241"/>
+			</color>
+		</style>
+		<style field="MPM_VEHICLE_RGHT_CLR">
+			<color>
+				<primary day="#ff9d2241" night="#ff9d2241"/>
+				<secondary day="#ff9d2241" night="#ff9d2241"/>
+			</color>
+		</style>
+		<style field="MPM_VEHICLE_BACK_CLR">
+			<color>
+				<primary day="#ff9d2241" night="#ff9d2241"/>
+				<secondary day="#ff9d2241" night="#ff9d2241"/>
+			</color>
+		</style>
+		<style field="MPM_VHCL_HGLT_CLR">
+			<color>
+				<primary day="#ff000000" night="#ff000000"/>
+				<secondary day="#ff000000" night="#ff000000"/>
+			</color>
+		</style>
+		<style field="MPM_MDB_TRK_BLACK_CLR">
+			<color>
+				<primary day="#ff000000" night="#ff000000"/>
+				<secondary day="#ff000000" night="#ff000000"/>
+			</color>
+		</style>
+		<style field="MPM_MDB_TRK_DK_RED_CLR">
+			<color>
+				<primary day="#ff880000" night="#ff880000"/>
+				<secondary day="#ff880000" night="#ff880000"/>
+			</color>
+		</style>
+		<style field="MPM_MDB_TRK_DK_GREEN_CLR">
+			<color>
+				<primary day="#ff008000" night="#ff008000"/>
+				<secondary day="#ff008000" night="#ff008000"/>
+			</color>
+		</style>
+		<style field="MPM_MDB_TRK_DK_YELLOW_CLR">
+			<color>
+				<primary day="#ffb07800" night="#ffb07800"/>
+				<secondary day="#ffb07800" night="#ffb07800"/>
+			</color>
+		</style>
+		<style field="MPM_MDB_TRK_DK_BLUE_CLR">
+			<color>
+				<primary day="#ff000080" night="#ff000080"/>
+				<secondary day="#ff000080" night="#ff000080"/>
+			</color>
+		</style>
+		<style field="MPM_MDB_TRK_DK_MAGENTA_CLR">
+			<color>
+				<primary day="#ff800080" night="#ff800080"/>
+				<secondary day="#ff800080" night="#ff800080"/>
+			</color>
+		</style>
+		<style field="MPM_MDB_TRK_DK_CYAN_CLR">
+			<color>
+				<primary day="#ff008080" night="#ff008080"/>
+				<secondary day="#ff008080" night="#ff008080"/>
+			</color>
+		</style>
+		<style field="MPM_MDB_TRK_LT_GRAY_CLR">
+			<color>
+				<primary day="#ffc0c0c0" night="#ffc0c0c0"/>
+				<secondary day="#ffc0c0c0" night="#ffc0c0c0"/>
+			</color>
+		</style>
+		<style field="MPM_MDB_TRK_DK_GRAY_CLR">
+			<color>
+				<primary day="#ff808080" night="#ff808080"/>
+				<secondary day="#ff808080" night="#ff808080"/>
+			</color>
+		</style>
+		<style field="MPM_MDB_TRK_RED_CLR">
+			<color>
+				<primary day="#ffb00000" night="#ffb00000"/>
+				<secondary day="#ffb00000" night="#ffb00000"/>
+			</color>
+		</style>
+		<style field="MPM_MDB_TRK_GREEN_CLR">
+			<color>
+				<primary day="#ff00b800" night="#ff00b800"/>
+				<secondary day="#ff00b800" night="#ff00b800"/>
+			</color>
+		</style>
+		<style field="MPM_MDB_TRK_YELLOW_CLR">
+			<color>
+				<primary day="#ff989800" night="#ff989800"/>
+				<secondary day="#ff989800" night="#ff989800"/>
+			</color>
+		</style>
+		<style field="MPM_MDB_TRK_BLUE_CLR">
+			<color>
+				<primary day="#ff0000f8" night="#ff0000f8"/>
+				<secondary day="#ff0000f8" night="#ff0000f8"/>
+			</color>
+		</style>
+		<style field="MPM_MDB_TRK_MAGENTA_CLR">
+			<color>
+				<primary day="#fff800f8" night="#fff800f8"/>
+				<secondary day="#fff800f8" night="#fff800f8"/>
+			</color>
+		</style>
+		<style field="MPM_MDB_TRK_CYAN_CLR">
+			<color>
+				<primary day="#ff00fcf8" night="#ff00fcf8"/>
+				<secondary day="#ff00fcf8" night="#ff00fcf8"/>
+			</color>
+		</style>
+		<style field="MPM_MDB_TRK_WHITE_CLR">
+			<color>
+				<primary day="#fff8f8f8" night="#fff8f8f8"/>
+				<secondary day="#fff8f8f8" night="#fff8f8f8"/>
+			</color>
+		</style>
+		<style field="MPM_MDB_TRK_LT_BLUE">
+			<color>
+				<primary day="#ff20a8e0" night="#ff20a8e0"/>
+				<secondary day="#ff20a8e0" night="#ff20a8e0"/>
+			</color>
+		</style>
+		<style field="MPM_MDB_TRK_TRANSPRNT_CLR">
+			<color>
+				<primary day="#00f8fcf8" night="#00f8fcf8"/>
+				<secondary day="#00f8fcf8" night="#00f8fcf8"/>
+			</color>
+		</style>
+	</stylelist>
+</garmin_map_theme>
