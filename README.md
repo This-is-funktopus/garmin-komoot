@@ -3,20 +3,20 @@ A map that recreates the Komoot Map on Garmin's native navigation. Built using h
 
 To set up your Komoot flavoured map, download the KTMF file and transer it to MAPTHEMES on your garmin device.
 
-Then, navigate to the following:
+Then, do to the following on your garmin:
 
-STEP 1:
+## STEP 1:
 
 settings > activity profiles > [CHOOSE A PROFILE] > Navigation > Map > Appearance > Map Theme > [CHOOSE THE DOWNLOADED MAP]
 
 This sets up the map.
 
-STEP 2:
+## STEP 2:
 
 settings > activity profiles > [CHOOSE A PROFILE] > Navigation > Map > Appearance > Advanced > Zoom Levels [SET MAP POINTS AND STREET LABELS TO "OFF", SET SHADED RELIEF TO "DO NOT SHOW"]
 
 This declutters the map.
 
-STEP 3:
+## STEP 3:
 
 Ride!
